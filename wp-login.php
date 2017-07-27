@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>vancouverhousing &lsaquo; Log In</title>
+	<title>Vancouver Housing &lsaquo; Log In</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' href='https://mhenrey.github.io/vancouverneighbourhoods/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
@@ -15,7 +15,7 @@
 		</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">vancouverhousing</a></h1>
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Vancouver Housing</a></h1>
 	
 <form name="loginform" id="loginform" action="https://mhenrey.github.io/vancouverneighbourhoods/wp-login.php" method="post">
 	<p>
@@ -59,7 +59,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://mhenrey.github.io/vancouverneighbourhoods/">&larr; Back to vancouverhousing</a></p>
+	<p id="backtoblog"><a href="https://mhenrey.github.io/vancouverneighbourhoods/">&larr; Back to Vancouver Housing</a></p>
 	
 	</div>
 
